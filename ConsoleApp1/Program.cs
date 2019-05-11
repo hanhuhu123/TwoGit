@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //twogit
+            //two
             Console.WriteLine("Hello World!");
         }
     }
